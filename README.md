@@ -1,2 +1,5 @@
 # clase-github
-es una practica d git
+
+es una practica de git
+
+Hello !! I am Juan :)
